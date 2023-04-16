@@ -1,0 +1,41 @@
+body{
+    background-color: bisque;
+    font-family: Verdana, Arial, sans-serif;
+    /* fzs14 */
+    font-size: 14px;
+    color: #444;
+}
+#menu, #main, #footer{
+    margin: 30px auto;
+    width: 75%;
+    text-align: center;
+    
+}
+#menu{
+    text-align: center;
+    background-color: aliceblue;
+    color: rgb(238, 225, 222);
+    padding: 5px 20px;
+    text-decoration: none;
+    border: solid;
+    font-weight: 600;
+}
+
+
+
+#main div{
+    text-align: justify;
+    background-color: burlywood;
+    margin: 10px;
+    padding: 10px;
+}
+#footer{
+    /* border: width style color; */
+    border-top: double #bbb;
+}
+#opisoferty{
+    text-align: center;
+    background-color: burlywood;
+    margin: 10px;
+    padding: 10px;
+}
