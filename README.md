@@ -1,2 +1,2 @@
-# hatemenel
-# jest to początek mojej nauki z htmlem. 
+# Projekt na studia
+# Jest to początek mojej nauki z technologią HTML. 
