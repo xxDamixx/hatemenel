@@ -1,0 +1,26 @@
+﻿.container
+{
+    background-color: aqua;
+    margin:  ;
+    width:   800px;
+    min-height: 800px;
+    color:  #444;
+}
+header, footer 
+{
+    background-color: red;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+menu{
+    margin: 0;
+    padding: 0;
+}
+menu, adverts
+{
+    background-color: green;
+}
+aside
+{
+    background-color: bisque;
+}
