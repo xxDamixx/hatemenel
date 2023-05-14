@@ -1,0 +1,54 @@
+.container{
+    background-color: aquamarine;
+    margin: 20px auto;
+    width: 80vw;
+    min-height: 90vh;
+    color: #444 ;
+    font-family: 'Kalam', cursive;
+}
+header, footer{
+    background-color: burlywood ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: inherit;
+    min-height: 15vh;
+    text-align: center;
+}
+section{
+    background-color:lightsteelblue ;
+    width: 100%;
+    min-height: 60vh;
+    padding: 10px;
+    box-sizing: border-box;
+}
+article, figure{
+    width: 50%;
+    min-height: inherit;
+    float: left;
+}
+article *{
+    margin: 10px;
+    text-align: justify;
+}
+figure{
+    margin-right: 0;
+    margin-left: 0;
+}
+figure img{
+    width: 100%;
+}
+.icons a{
+    background-color: coral;
+    color: #444;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    line-height: 40px;
+}
+.container2{
+    background-image: url(https://wsei.edu.pl/wp-content/uploads/2023/04/1200_x_628-1-scaled-1200x628.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
